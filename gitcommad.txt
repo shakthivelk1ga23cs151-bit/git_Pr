@@ -1,0 +1,9 @@
+PS E:\Partice\gitc\file> cd ..
+PS E:\Partice\gitc> git tag vi.0 HEAD
+PS E:\Partice\gitc> git tag
+vi.0
+PS E:\Partice\gitc> git push origin vi.0
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/shakthivelk1ga23cs151-bit/git_Pr.git
+ * [new tag]         vi.0 -> vi.0
+PS E:\Partice\gitc> 
