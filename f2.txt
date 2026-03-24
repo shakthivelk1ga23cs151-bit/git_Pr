@@ -1,1 +1,2 @@
-Hello this is DevOps program on Git
+Hello this is DevOps program on Git 
+Learning how to do stashed changes 
